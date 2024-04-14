@@ -3,7 +3,7 @@ This is a template containing boilerplate react and django application with auth
 
 
 
-Dealing with jasmine logout not working:
+Dealing with jazzmin logout not working:
 Follow these steps:
 
 1. Navigate to the template file where the Django-Jazzmin admin interface is being customized. This is usually located at /rootProject/templates/admin/base.html.
